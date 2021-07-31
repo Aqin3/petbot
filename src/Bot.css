@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.Bot--body {
+  fill: #e1e2e3;
+  stroke: black;
+  stroke-width: 2;
+}
+
+.Bot--face {
+  opacity: 0.2;
+}
+
+.Bot--eye {
+  transition: all 50ms;
+}
